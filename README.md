@@ -1,6 +1,6 @@
 # Odin Recipes
 
-![Project Preview.](/git-images/img01 "This is a sample image.")
+![Project Preview.](git-images/img01.png "This is a sample image.")
 
 
 ## 📖 Introduction
