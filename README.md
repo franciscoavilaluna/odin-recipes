@@ -1,8 +1,5 @@
 # Odin Recipes
 
-![Project Preview.](git-images/img01.png "This is a sample image.")
-
-
 ## 📖 Introduction
 This project focuses on creating a static webpage using HTML to display recipes.
 
